@@ -3,10 +3,12 @@ Track your books, get recommendations and see global analysises.Uses what people
 
 ## Notes about Database
 ### logindata
+
 <li><Keeps id,username and password.</li>
 <li>Current data it contains has created by data creator notebook, reachable in repository.Note that there are some expectional users which I created manually.</li>
+
 ### records_id
-<li><Keeps records of each user seperately./li>
+<li><Keeps records of each user seperately.</li>
 <li>Contains id, book informations and notes about books.</li>
 <li>I wanted records to be different to wwork on them and improving.It can easily get reduced to only one record table.</li>
 
